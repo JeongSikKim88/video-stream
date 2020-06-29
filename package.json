@@ -1,0 +1,26 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "videojs & nginx streaming server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongSikKim88/video-stream.git"
+  },
+  "author": "jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongSikKim88/video-stream/issues"
+  },
+  "homepage": "https://github.com/JeongSikKim88/video-stream#readme",
+  "devDependencies": {
+    "video.js": "^7.8.3"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security"
+  }
+}
